@@ -1,0 +1,8 @@
+# dotfile for GNU readline (affects ALL programs that use GNU readline, not just bash
+
+# force autocomplete regardless of case
+set completion-ignore-case on
+# list all matches when multiple completions are possible
+set show-all-if-ambiguous on
+# move through autocomplete matches with shift-tab
+"\e[Z": menu-complete
