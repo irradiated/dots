@@ -1,0 +1,11 @@
+Manual Installation:
+https://ohmyposh.dev/docs/installation/linux
+
+View Themes:
+https://ohmyposh.dev/docs/themes
+
+Change themes(change *.omp.json to theme you want)):
+eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/jandedobbeleer.omp.json')"
+exec bash
+
+
