@@ -1,0 +1,50 @@
+Useful Tools
+
+Notes/Documents:
+  Obsidian
+  Joplin
+  LaTeX
+    - MikTex
+    - TexLive
+  LibreOffice
+
+SSH/FTP:
+  FileZilla
+  WinSCP
+  PuTTY
+
+General:
+  Bulk Rename Utility (file renaming that actually works)
+  Ninite (install multiple tools at once)
+  IrfanView (image viewer)
+  Krita (drawing)
+  LibreOffice
+  PowerToys (power user tools, FancyZones)
+  ZoomIt (draw on screen while screen sharing)
+  TeraCopy (copy files)
+  AutoHotKey (automate keystrokes)
+  7-Zip
+  WinDirStat (disk cleanup)
+  Microsoft Garage: Mouse Without Borders (KVM software)
+  
+Images/Media:
+  IrfanView
+  screen2gif
+  Gyazo
+  VLC Player
+  
+Programming:
+  VS Code
+  IntelliJ IDEA Community
+  WinMerge
+  WireShark
+  GitHub Desktop
+  
+USB Flashing:
+  Rufus
+  balenaEtcher
+  Windows USB Tool
+  
+Linux:
+  Rofi (quick launcher)
+  UNetBootin (USB flasher)
