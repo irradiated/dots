@@ -17,9 +17,6 @@ General:
   NirSoft's BluescreenView
   Bulk Rename Utility (file renaming that actually works)
   Ninite (install multiple tools at once)
-  IrfanView (image viewer)
-  Krita (drawing)
-  LibreOffice
   PowerToys (power user tools, FancyZones)
   ZoomIt (draw on screen while screen sharing)
   TeraCopy (copy files)
@@ -33,11 +30,13 @@ Images/Media:
   IrfanView
   screen2gif
   Gyazo
+  ShareX (screenshots)
   VLC Player
   PlexAmp
   OBS Studio
   paint.net
   xmedia-recode (video conversion)
+  Krita (drawing)
   
 Programming:
   VS Code
