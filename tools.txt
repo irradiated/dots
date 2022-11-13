@@ -14,6 +14,7 @@ SSH/FTP:
   PuTTY
 
 General:
+  NirSoft's BluescreenView
   Bulk Rename Utility (file renaming that actually works)
   Ninite (install multiple tools at once)
   IrfanView (image viewer)
@@ -26,19 +27,26 @@ General:
   7-Zip
   WinDirStat (disk cleanup)
   Microsoft Garage: Mouse Without Borders (KVM software)
+  ProtonVPN
   
 Images/Media:
   IrfanView
   screen2gif
   Gyazo
   VLC Player
+  PlexAmp
+  OBS Studio
+  paint.net
+  xmedia-recode (video conversion)
   
 Programming:
   VS Code
   IntelliJ IDEA Community
+  phpStorm
   WinMerge
   WireShark
   GitHub Desktop
+  XAMPP (LAMP stack)
   
 USB Flashing:
   Rufus
