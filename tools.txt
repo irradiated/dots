@@ -25,6 +25,7 @@ General:
   WinDirStat (disk cleanup)
   Microsoft Garage: Mouse Without Borders (KVM software)
   ProtonVPN
+  CrystalDiskMark (storage benchmarking)
   
 Images/Media:
   IrfanView
@@ -32,6 +33,8 @@ Images/Media:
   Gyazo
   ShareX (screenshots)
   VLC Player
+  Calibre
+  Spotify (and Spicetify!)
   PlexAmp
   OBS Studio
   paint.net
@@ -55,3 +58,5 @@ USB Flashing:
 Linux:
   Rofi (quick launcher)
   UNetBootin (USB flasher)
+  
+EScribe (evolv)
