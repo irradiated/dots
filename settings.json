@@ -1,20 +1,46 @@
-// VSC settings.json
+/* 
+VSC settings.json
+
+Useful Extensions:
+    Oracle Developer Tools (OracleDB inside VSC)
+*/
 {
     "workbench.colorTheme": "Dracula",
     "git.ignoreMissingGitWarning": true,
     "files.autoSave": "afterDelay",
     "editor.minimap.enabled": false,
     "editor.rulers": [
+        
         // custom rulers with individual column lengths and colours
         {
             "column": 80,
-            "color": "#ff40804d"
+            "color": "#ff40cf50"
         },
         {
             "column": 120,
-            "color": "#ff4081"
+            "color": "#ff40cf"
         }
         // set a ruler with the default colour
         //,80 
     ]
+    /*
+    // global ruler color
+    "workbench.colorCustomizations": {
+
+    "editorRuler.foreground": "#fffa"   
+                // or "#ffffffaa" - the a's are alpha transparency values
+    }
+
+    // per language customization
+    "[git-commit]": {
+        "editor.rulers": [50]
+    },
+    "[python]": {
+        "editor.rulers": [
+            79,
+            120
+        ]
+    }
+
+    */
 }
