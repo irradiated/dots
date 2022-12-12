@@ -1,0 +1,19 @@
+/*
+lineruler.css
+
+CSS snippet for Obsidian.md
+a simple line ruler to mimic the vertical rulers in Visual Studio Code.
+affects all 'source' mode editors in Obsidian - 'Read' mode is unaffected!
+
+to change ruler length, adjust 'background-position' in 'ch' (char) values. 
+
+rulers may be added or removed using lists in 'background-image', with a matching positions list in 
+'background position'.
+*/
+
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-vertical.mod-root > div > div.workspace-tab-container > div.workspace-leaf.mod-active > div > div.view-content > div.markdown-source-view.cm-s-obsidian.mod-cm6.is-folding.node-insert-event > div > div.cm-scroller > div.cm-sizer > div.cm-contentContainer > div.cm-content {
+    background-image: linear-gradient(rgba(252, 27, 214, 0.3), rgba(252, 27, 214, 0.3)), linear-gradient(rgba(252, 27, 214, 0.6), rgba(252, 27, 214, 0.6));
+    background-size: 2px 100%;
+    background-repeat: no-repeat;
+    background-position: 80ch, 120ch;
+}
