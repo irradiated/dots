@@ -38,6 +38,9 @@
 - Calibre
 - Spotify (and Spicetify!)
 - PlexAmp
+- WinAMP
+- FooBar2000
+- Plane9 (standalone visualizer)
 - OBS Studio
 - paint.net
 - xmedia-recode (video conversion)
